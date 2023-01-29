@@ -4228,6 +4228,28 @@
       "image": "https://obrazki.elektroda.pl/8955310000_1674205024.png",
       "wiki": "https://www.elektroda.com/rtvforum/topic3950763.html",
       "flag": 8
+    },
+    {
+      "vendor": "CAMWON",
+      "bDetailed": "0",
+      "name": "Smart plug",
+      "model": "WIP-TY010A",
+      "chip": "BK7231N",
+      "board": "CB2S",
+      "pins": {
+        "7": "LED_n;0",
+        "8": "Button;0;0",
+        "24": "Relay;0"
+      },
+      "keywords": [
+        "camwon",
+        "smart plug",
+	"wip-ty010a",
+	"smart socket"
+      ],
+      "image": "",
+      "wiki": "",
+
     }
   ]
 }
